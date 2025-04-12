@@ -1,3 +1,1 @@
 # Swastik
-
-Development in progress

@@ -1,6 +1,6 @@
 {
-  "homepage": "www.swastikgroupltd.com",
-  "name": "project-m",
+  "homepage": "https://www.swastikgroupltd.com",
+  "name": "swastik",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,7 +12,8 @@
     "react-router": "^6.25.1",
     "react-router-dom": "^6.25.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "lucide-react": "^0.344.0"
   },
   "scripts": {
     "start": "react-scripts start",
