@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/www.swastikgroupltd.com/static/css/main.f855e6bc.css",
-    "main.js": "/www.swastikgroupltd.com/static/js/main.ceae44a2.js",
-    "static/js/453.01c1a8aa.chunk.js": "/www.swastikgroupltd.com/static/js/453.01c1a8aa.chunk.js",
-    "static/media/sampleImage.jpg": "/www.swastikgroupltd.com/static/media/sampleImage.48a909a3000f1830101a.jpg",
-    "index.html": "/www.swastikgroupltd.com/index.html",
-    "main.f855e6bc.css.map": "/www.swastikgroupltd.com/static/css/main.f855e6bc.css.map",
-    "main.ceae44a2.js.map": "/www.swastikgroupltd.com/static/js/main.ceae44a2.js.map",
-    "453.01c1a8aa.chunk.js.map": "/www.swastikgroupltd.com/static/js/453.01c1a8aa.chunk.js.map"
+    "main.css": "/static/css/main.e7be5c6e.css",
+    "main.js": "/static/js/main.01da75cf.js",
+    "static/js/453.12880c61.chunk.js": "/static/js/453.12880c61.chunk.js",
+    "index.html": "/index.html",
+    "main.e7be5c6e.css.map": "/static/css/main.e7be5c6e.css.map",
+    "main.01da75cf.js.map": "/static/js/main.01da75cf.js.map",
+    "453.12880c61.chunk.js.map": "/static/js/453.12880c61.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.ceae44a2.js"
+    "static/css/main.e7be5c6e.css",
+    "static/js/main.01da75cf.js"
   ]
 }
