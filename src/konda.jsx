@@ -71,7 +71,7 @@ function Konda() {
       </header>
 
       {/* Navigation */}
-      <nav className="bg-gray-800 text-white py-3 border-b border-gray-200" style={{marginTop:"-50px",position:"relative",zIndex:"99"}}>
+      <nav className="bg-gray-800 text-white py-3 border-b border-gray-200" style={{marginTop:"-50px",position:"fixed",width:'100%',zIndex:"99"}}>
         <div className="container mx-auto px-4 sm:px-6">
           <ul className="flex flex-wrap justify-center md:justify-end gap-3 sm:gap-4 text-xs sm:text-sm font-medium">
             {['home', 'about', 'ventures', 'vision', 'founder', 'testimonials', 'contact'].map((item) => (
@@ -310,7 +310,7 @@ function Konda() {
       </section>
 
       <footer className="bg-gray-800 text-white py-4 text-center text-sm">
-  © {new Date().getFullYear()}2024 Swastik Group Limited. All rights reserved.
+  © {new Date().getFullYear()} Swastik Group Limited. All rights reserved.
 </footer>
 
     </main>
