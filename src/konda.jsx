@@ -56,14 +56,14 @@ function Konda() {
                 src={swas}
                 alt="Swastik Group Logo"
                 className="h-20 w-20 sm:h-20 sm:w-20 object-contain"
-                style={{height:"250px",width:"400px",marginLeft:"-40px"}}
+                style={{height:"250px",width:"400px",marginLeft:"-80px"}}
 
               />
               {/* <div className="text-3xl sm:text-2xl font-bold bg-gradient-to-r from-blue-600 to-teal-500 bg-clip-text text-transparent font-serif">
                 SWASTIK GROUP LIMITED
               </div> */}
             </div>
-            <p className="text-xs sm:text-sm text-gray-600 font-medium tracking-wide text-center md:text-right">
+            <p className="text-xs sm:text-sm text-gray-600 font-medium tracking-wide text-center md:text-right" style={{marginTop:"60px"}}>
               Introducing Global Food Brands to the UK
             </p>
           </div>
@@ -71,7 +71,7 @@ function Konda() {
       </header>
 
       {/* Navigation */}
-      <nav className="bg-gray-800 text-white py-3 border-b border-gray-200">
+      <nav className="bg-gray-800 text-white py-3 border-b border-gray-200" style={{marginTop:"-50px",position:"relative",zIndex:"99"}}>
         <div className="container mx-auto px-4 sm:px-6">
           <ul className="flex flex-wrap justify-center md:justify-end gap-3 sm:gap-4 text-xs sm:text-sm font-medium">
             {['home', 'about', 'ventures', 'vision', 'founder', 'testimonials', 'contact'].map((item) => (
